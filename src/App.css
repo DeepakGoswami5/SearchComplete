@@ -35,7 +35,7 @@ li {
     background-color: rgba(0, 0, 0, 0.05);
     background-image:
         linear-gradient(90deg,
-        #FFD32E 10px,
+        #00FFFF 10px,
         #EEE 10px,
         #EEE 11px,
         transparent 11px);
@@ -89,7 +89,7 @@ ul {
 #notebooks span {
     display: block;
     position: absolute;
-    background: #FFD32E;
+    background: #00FFFF ;
     bottom: -35px;
     left: -1px;
     width: 360px;
